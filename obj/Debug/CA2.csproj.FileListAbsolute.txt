@@ -1,0 +1,12 @@
+c:\users\x14119650\documents\visual studio 2013\Projects\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+c:\users\x14119650\documents\visual studio 2013\Projects\WebApplication1\WebApplication1\bin\WebApplication1.dll
+c:\users\x14119650\documents\visual studio 2013\Projects\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+c:\users\x14119650\documents\visual studio 2013\Projects\WebApplication1\WebApplication1\obj\Debug\CA2.csprojResolveAssemblyReference.cache
+c:\users\x14119650\documents\visual studio 2013\Projects\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+c:\users\x14119650\documents\visual studio 2013\Projects\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+H:\Week 1\WebApplication1\bin\WebApplication1.dll.config
+H:\Week 1\WebApplication1\bin\WebApplication1.dll
+H:\Week 1\WebApplication1\bin\WebApplication1.pdb
+H:\Week 1\WebApplication1\obj\Debug\CA2.csprojResolveAssemblyReference.cache
+H:\Week 1\WebApplication1\obj\Debug\WebApplication1.dll
+H:\Week 1\WebApplication1\obj\Debug\WebApplication1.pdb
